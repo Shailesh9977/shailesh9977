@@ -1,4 +1,4 @@
-# Hi there, I'm Shailesh! 👋
+# Hi, I'm Shailesh! 👋
 
 ### 🚀 C++ | DSA | Web Development
 
