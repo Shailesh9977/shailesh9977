@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Shailesh! 👋
 
-<!--
-**Shailesh9977/shailesh9977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 C++ | DSA | Web Development
 
-Here are some ideas to get you started:
+I'm a B.Tech student passionate about problem-solving, Data Structures & Algorithms,
+and Web Development. Currently focused on strengthening my DSA skills and building
+projects while learning JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 Languages: C++, JavaScript
+- 🧠 DSA: Arrays, Strings, Two Pointers, Sliding Window
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 🔧 Tools: GitHub, VS Code
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- JavaScript
+- Web Development
+
+## 🎯 Goals
+
+- Solve LeetCode problems consistently
+- Improve problem-solving skills
+- Build real-world projects
+- Strengthen my programming fundamentals
+
+## 📈 My Learning Journey
+
+I believe in learning consistently, solving problems, building projects,
+and improving every day. 🚀
