@@ -51,3 +51,6 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 
 I believe in learning consistently, solving problems, building projects,
 and improving every day. 🚀
+## 🐍 Contribution Graph
+
+<img src="https://gh-heat.anishroy.com/api/Shailesh9977/svg?theme=green" width="100%" alt="GitHub Contribution Graph">
