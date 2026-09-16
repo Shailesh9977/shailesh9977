@@ -20,13 +20,24 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+</p>
 
-### 🛠 Additional Skills
+## 🔧 Additional Skills
 
-**Thank you for visiting my profile!** 🚀
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Development-FF6B35?style=for-the-badge" />
+</p>
+
+---
+
 
 </div>
 - 💻 Languages: C++, JavaScript
