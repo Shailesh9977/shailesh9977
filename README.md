@@ -7,7 +7,29 @@ and Web Development. Currently focused on strengthening my DSA skills and buildi
 projects while learning JavaScript.
 
 ## 🛠️ Tech Stack
+# 👋 Hi there, I'm Abhishek Yadav!
 
+🎯 **Programmer**  
+🎓 **Computer Science Student**  
+☕ **Love Java**                                                                                            
+🧠 **Problem Solver** 
+ 
+I enjoy tackling challenging algorithmic problems and continuously improving my skills in  
+**Data Structures, and Algorithms**.
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠 Additional Skills
+
+**Thank you for visiting my profile!** 🚀
+
+</div>
 - 💻 Languages: C++, JavaScript
 - 🧠 DSA: Arrays, Strings, Two Pointers, Sliding Window
 - 🌐 Frontend: HTML, CSS, JavaScript
