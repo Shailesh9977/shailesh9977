@@ -5,13 +5,7 @@
 I'm a B.Tech student passionate about problem-solving, Data Structures & Algorithms,
 and Web Development. Currently focused on strengthening my DSA skills and building
 projects while learning JavaScript.
-
-## 🛠️ Tech Stack
-#
-
-🎯 **Programmer**  
-🎓 **Computer Science Student**                                                                                           
-🧠 **Problem Solver** 
+---
  
 I enjoy tackling challenging algorithmic problems and continuously improving my skills in  
 **Data Structures, and Algorithms**.
@@ -44,20 +38,20 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 - 🧠 DSA: Arrays, Strings, Two Pointers, Sliding Window
 - 🌐 Frontend: HTML, CSS, JavaScript
 - 🔧 Tools: GitHub, VS Code
-
+---
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
 - JavaScript
 - Web Development
-
+---
 ## 🎯 Goals
 
 - Solve LeetCode problems consistently
 - Improve problem-solving skills
 - Build real-world projects
 - Strengthen my programming fundamentals
-
+---
 ## 📈 My Learning Journey
 
 I believe in learning consistently, solving problems, building projects,
