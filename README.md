@@ -54,3 +54,11 @@ and improving every day. 🚀
 ## 🐍 Contribution Graph
 
 <img src="https://gh-heat.anishroy.com/api/Shailesh9977/svg?theme=green" width="100%" alt="GitHub Contribution Graph">
+
+---
+
+## 📈 Github Contribution Line Graph
+
+<img src="https://github.pumbas.net/api/contributions/Shailesh9977?days=30&colour=22C55E&bgColour=transparent" width="100%" alt="GitHub Daily Contributions">
+
+---
