@@ -7,11 +7,10 @@ and Web Development. Currently focused on strengthening my DSA skills and buildi
 projects while learning JavaScript.
 
 ## 🛠️ Tech Stack
-# 👋 Hi there, I'm Abhishek Yadav!
+#
 
 🎯 **Programmer**  
-🎓 **Computer Science Student**  
-☕ **Love Java**                                                                                            
+🎓 **Computer Science Student**                                                                                           
 🧠 **Problem Solver** 
  
 I enjoy tackling challenging algorithmic problems and continuously improving my skills in  
