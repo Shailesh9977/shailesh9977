@@ -66,6 +66,5 @@ and improving every day. 🚀
 
 <img src="https://github.pumbas.net/api/contributions/Shailesh9977?days=30&colour=22C55E&bgColour=transparent" width="100%" alt="GitHub Daily Contributions">
 
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=%20%20%20shailesh9977)](https://git.io/streak-stats)
+
 
